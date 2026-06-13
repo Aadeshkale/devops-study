@@ -1,9 +1,9 @@
 # New Topics and tools to learn
-* Litellm
-* Ollama
+* Litellm  -> Done
+* Ollama   -> Done
 * N8n workflow 
 * open claw
-* MCP server
+* MCP server -> Done
 * Langchain Lang Graph - Python 
 * dsv
 * Mlflow
@@ -11,7 +11,7 @@
 * kubeflow
 ---
 
-* Argo event
+* Argo event 
 * Argo webflow
 
 ---
