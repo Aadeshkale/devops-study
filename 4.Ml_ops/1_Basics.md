@@ -17,7 +17,14 @@ In simple terms: AI is the goal, and ML is one way to achieve it.
 * Traditional AI mainly analyzes data and makes predictions or decisions, while GenAI creates new content.
 ---
 
+## 3. What is Deep Learning?
 
+Deep Learning is a part of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data and generate predictions or outputs.
+
+Example:
+A deep learning model can learn from thousands of images and recognize whether a new image contains a cat or dog.
+
+---
 ## 3. Supervised, Unsupervised, and Reinforcement Learning
 
 * **Supervised Learning:** The model **learns from data with correct answers** and uses it to predict new results.
