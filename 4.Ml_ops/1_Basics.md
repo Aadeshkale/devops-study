@@ -1,5 +1,3 @@
-# AIML Notes
-
 ##  What is AI and ML?
 
 **AI (Artificial Intelligence):**
