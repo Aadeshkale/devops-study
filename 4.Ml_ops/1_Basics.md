@@ -16,3 +16,17 @@ In simple terms: AI is the goal, and ML is one way to achieve it.
 * GenAI is a type of AI that creates new content such as text, images, videos, audio, or code.
 * Traditional AI mainly analyzes data and makes predictions or decisions, while GenAI creates new content.
 ---
+
+
+## 3. Supervised, Unsupervised, and Reinforcement Learning
+
+* **Supervised Learning:** The model **learns from data with correct answers** and uses it to predict new results.
+  *Example: Identifying whether an email is spam or not.*
+
+* **Unsupervised Learning:** The model **learns from data without answers** and finds patterns or groups by itself.
+  *Example: Grouping customers based on their behavior.*
+
+* **Reinforcement Learning:** The model **learns by trying actions and getting rewards or penalties**.
+  *Example: A robot learning which path to take.*
+
+---
