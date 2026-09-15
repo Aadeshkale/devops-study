@@ -1,4 +1,4 @@
-##  What is AI and ML?
+##  1. What is AI and ML?
 
 **AI:** is a technology that enables machines to process information, recognize patterns, make decisions, and perform tasks that normally require human intelligence, with minimal or no direct human intervention.
 
@@ -8,3 +8,7 @@ AI is the broader concept of enabling machines to perform intelligent tasks, whi
 In simple terms: AI is the goal, and ML is one way to achieve it.
 
 ---
+
+##  1. What is AI and ML?
+GenAI is a type of AI that creates new content such as text, images, videos, audio, or code.
+Traditional AI mainly analyzes data and makes predictions or decisions, while GenAI creates new content.
