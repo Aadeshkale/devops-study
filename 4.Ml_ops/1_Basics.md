@@ -1,3 +1,5 @@
+## AI ML Notes
+
 ###  1. What is AI and ML?
 
 * **AI:** is a technology that enables machines to process information, recognize patterns, make decisions, and perform tasks that normally require human intelligence, with minimal or no direct human intervention.
