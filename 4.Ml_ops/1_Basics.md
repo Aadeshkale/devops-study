@@ -45,3 +45,7 @@ A deep learning model can learn from thousands of images and recognize whether a
   *Example: Foundation models like Qwen Coder, DeepSeek-V3, Llama.*
 
 ---
+## What is an AI agent?
+* An AI agent is a system that takes actions on your behalf. It uses an AI/ML model as its brain to understand, reason, and decide, and uses external tools, APIs, or systems to execute those actions and achieve a goal.
+
+
