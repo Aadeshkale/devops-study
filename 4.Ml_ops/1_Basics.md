@@ -50,12 +50,12 @@ A deep learning model can learn from thousands of images and recognize whether a
 * Agentic AI is an autonomous AI system that can reason, plan, make decisions, use tools, and perform multiple steps to achieve a goal. It can also coordinate multiple AI agents for complex tasks when needed.
 
 * AI Agent vs Agentic AI
-   | AI Agent | Agentic AI |
-   |---|---|
-   | Performs a task | Works autonomously toward a goal |
-   | Uses AI model + tools | Plans and executes multiple steps |
-   | Usually task-focused | Handles complex, multi-step tasks |
-   | Can take actions | Decides which actions to take |
+  | **AI Agent** | **Agentic AI** |
+  |---|---|
+  | An **AI system that performs a task** | An **AI system that works autonomously toward a goal** |
+  | Understands, reasons, uses tools, and takes actions | Plans, reasons, makes decisions, and takes **multiple actions** |
+  | Usually focused on a specific task | Usually handles **complex, multi-step tasks** |
+  | Example: “Check my email and summarize it.” | Example: “Monitor my emails, identify important requests, decide what needs to be done, and complete the tasks.” |
 
 ---
 
