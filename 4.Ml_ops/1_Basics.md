@@ -45,7 +45,19 @@ A deep learning model can learn from thousands of images and recognize whether a
   *Example: Foundation models like Qwen Coder, DeepSeek-V3, Llama.*
 
 ---
-## What is an AI agent?
-* An AI agent is a system that takes actions on your behalf. It uses an AI/ML model as its brain to understand, reason, and decide, and uses external tools, APIs, or systems to execute those actions and achieve a goal.
+## 5. What is an AI agent, Agentic AI 
+* An AI agent is a software system that takes actions on your behalf. It uses an AI/ML model as its brain to understand, reason, and decide, and uses external tools, APIs, or systems to execute those actions and achieve a goal.
+* Agentic AI is an autonomous AI system that can reason, plan, make decisions, use tools, and perform multiple steps to achieve a goal. It can also coordinate multiple AI agents for complex tasks when needed.
+
+* AI Agent vs Agentic AI
+   | AI Agent | Agentic AI |
+   |---|---|
+   | Performs a task | Works autonomously toward a goal |
+   | Uses AI model + tools | Plans and executes multiple steps |
+   | Usually task-focused | Handles complex, multi-step tasks |
+   | Can take actions | Decides which actions to take |
+
+---
+
 
 
