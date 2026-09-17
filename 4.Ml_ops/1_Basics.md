@@ -37,3 +37,11 @@ A deep learning model can learn from thousands of images and recognize whether a
   *Example: A robot learning which path to take.*
 
 ---
+## 4. Pre-tuned vs. fine-tuned models  
+
+* **Pre-tuned:** These models are already trained on big datasets for general purposes
+  *Example: Foundation models like Gemma, Llama.*
+* **Fine-tuned:** These models are trained on particular datasets for specific purposes
+  *Example: Foundation models like Qwen Coder, DeepSeek-V3, Llama.*
+
+---
