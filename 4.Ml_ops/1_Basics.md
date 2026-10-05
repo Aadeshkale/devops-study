@@ -65,7 +65,7 @@ A deep learning model can learn from thousands of images and recognize whether a
 
   **Example:** A Cost Calculator Agent uses MCP tools to retrieve cost and usage data from external systems, while Skills define the instructions and workflow for how the agent should calculate, analyze, and present the results.
 
-text`
+```text
                     Cost Calculator Agent
                             |
               ┌─────────────┴─────────────┐
@@ -92,5 +92,5 @@ Calculation Skill   Presentation   Tool           Tool
                        │
                        ↓
                      User 
-                     `
+```
   
