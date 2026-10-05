@@ -58,6 +58,39 @@ A deep learning model can learn from thousands of images and recognize whether a
   | Example: “Check my email and summarize it.” | Example: “Monitor my emails, identify important requests, decide what needs to be done, and complete the tasks.” |
 
 ---
+## Explain MCP server, Tools, skills 
+* MCP Server: **MCP** is a standard followed by AI systems/Agents to communicate with other/external systems. **MCP Server**: A server that implements MCP and exposes those capabilities to an AI client.   
+* **Tools**: A set of Callable functions/actions performed by AI systems/Agents. 
+* **Skills**: A set of instructions/procedures/policies to teach AI systems on how to teach an AI System/agent how to perform a particular task.
 
+  **Example:** A Cost Calculator Agent uses MCP tools to retrieve cost and usage data from external systems, while Skills define the instructions and workflow for how the agent should calculate, analyze, and present the results.
 
-
+text`
+                    Cost Calculator Agent
+                            |
+              ┌─────────────┴─────────────┐
+              │                           │
+           Skills                      MCP Server
+              │                           │
+     ┌────────┴────────┐          ┌───────┴────────┐
+     │                 │          │                │
+Calculation Skill   Presentation   Tool           Tool
+                    Skill          │                │
+     │                 │       get_pricing()     get_usage()
+     │                 │          │                │
+     │                 │          └───────┬────────┘
+     │                 │                  ↓
+     │                 │          Cost Data / APIs
+     │                 │                  │
+     └─────────────────┼──────────────────┘
+                       ↓
+                Agent processes
+                & calculates
+                       │
+                       ↓
+                  Final Result
+                       │
+                       ↓
+                     User 
+                     `
+  
